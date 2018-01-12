@@ -3,8 +3,8 @@
 This is a repository for submissions regarding the activity started on 01/02/2017
 
 ## Team Members
-Sanja Dodos <br />
-Anna Sollazzo <br />
+Sanja Dodos - V000XXXXXX <br />
+Anna Sollazzo - V000XXXXXX<br />
 Jasmine Yadeta - V00804739
 
 ## Design Assumptions
@@ -15,7 +15,7 @@ Jasmine Yadeta - V00804739
 
 ### What
 
-Seaspan requested a visualization with the following features. Note: These are categorical attributes
+Seaspan requested a visualization with the following features. Note: We treated these as categorical attributes
 - ability to adapt their schedule based on current load information 
 - manual control over the schedule
 - a visual way to examine possible schedules (on a weekly basis)
