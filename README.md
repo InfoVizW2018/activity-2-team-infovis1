@@ -15,3 +15,6 @@ Let’s continue the activity from last day.
 ## Submission
 
 Submit via GitHub Classroom tomorrow (01/12/2018) by 12:00pm.
+
+Responses are in reponses.md
+Raapid prototype can be viewed at https://atsoll.github.io/infoVisAct2Prototype/
