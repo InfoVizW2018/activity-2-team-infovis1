@@ -4,7 +4,7 @@ This is a repository for submissions regarding the activity started on 01/02/201
 Our rapid prootype can be viewed at https://atsoll.github.io/infoVisAct2Prototype/
 
 ## Team Members
-Sanja Dodos - V000XXXXXX <br />
+Sanja Dodos - V000768964 <br />
 Anna Sollazzo - V000818749<br />
 Jasmine Yadeta - V00804739
 
