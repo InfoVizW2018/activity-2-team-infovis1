@@ -1,6 +1,7 @@
 # Activity 2 
 
 This is a repository for submissions regarding the activity started on 01/02/2017
+Our rapid prootype can be viewed at https://atsoll.github.io/infoVisAct2Prototype/
 
 ## Team Members
 Sanja Dodos - V000XXXXXX <br />
