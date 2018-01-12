@@ -1,15 +1,15 @@
-# Activity-2
+# Activity 2 
 
 This is a repository for submissions regarding the activity started on 01/02/2017
 
 ## Team Members
 Sanja Dodos <br />
 Anna Sollazzo <br />
-Jasmine Yadeta
+Jasmine Yadeta - V00804739
 
 ## Design Assumptions
 - information can be altered by Seaspan at anytime (regardless of necessary skill level)
-- full functionality not in (ie clickable items)
+- full functionality not implemented (ie clickable items)
 
 ## What-Why-How Framework
 
