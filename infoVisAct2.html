@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.1.3/ui-grid.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.1.3/ui-grid.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="./app.js"></script>
+<body>
+
+<div ng-app="myApp" ng-controller= "myCtrl">
+ <div class="col-md-10 col-md-offset-1">
+  <div class="col-md-8 col-md-offset-2" style="margin-bottom: 10vh"><img src="./map.jpeg"></div><br/><br/>
+  <div class="col-md-12" ui-grid="gridOptions"></div>
+  <div class="col-md-12 project_expl">
+	  not sure if we should put this here or in the markdown..
+	  <div id="what">
+		  <h4>What?</h4>
+		  <p>lorem ipsum</p>
+	  </div>
+	  <div id="why">
+		  <h4>Why?</h4>
+		  <p>lorem ipsum</p>
+	  </div>
+	  <div id="how">
+		  <h4>How?</h4>
+		  <p>lorem ipsum</p>
+	  </div>
+  </div>
+ </div>
+</div>
+
+</body>
+</html>
